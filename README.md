@@ -1,23 +1,50 @@
-Sales Dashboard Project
-This project is a Tableau sales dashboard that helps track and understand sales, profit, quantity, customer segments, regions, and manager performance. It provides clear visuals to support business decisions.
-What This Project Solves
-Goal:
-1.To analyze sales data and answer key business questions like:
-2.Are our sales and profits growing?
-3.Which customer segments and regions are performing best?
-4.Which states are below the national average?
-5.Which manager is driving the most sales?
+# Sales Dashboard Project
 
-Key Insights
-1.Total Sales: ₹733K (+20.36%)
-2.Profit: ₹93K (+14.24%)
-3.Quantity Sold: ₹12K (+26.83%)
-4.Top Segment: Consumer (₹50K in one month)
-5.Top Manager: Sadie Pawthorne (₹250K)
-6.West Region had the highest sales
-7.Many states are below average in sales and profit
+This project uses **Tableau** to create a visual dashboard that helps analyze **sales**, **profit**, **quantity**, and performance by **segment**, **region**, and **manager**. It provides insights that help businesses make better decisions by highlighting trends, strengths, and improvement areas.
 
-Ideal For
-->Business analysts seeking to demonstrate data storytelling skills
-->Sales managers aiming to track performance across regions
-->Students or freelancers building a business dashboard portfolio
+##  What This Project Solves
+Goal: 
+To explore and understand key patterns in sales data so that decision-makers can track growth, evaluate regional and segment-wise performance, and find areas that need attention.
+
+
+##  Sample Questions Answered
+
+- What are the total sales, profit, and quantity trends over time?
+- Which customer segment is generating the most sales?
+- Which state and region are performing best or below average?
+- Who are the top-performing sales managers?
+- How many states are above or below the national average in sales and profit?
+- How do different segments (Consumer, Corporate, Home Office) perform month by month?
+
+
+##  Key Insights
+
+- **Total Sales**: ₹733K (**+20.36%**)
+- **Profit**: ₹93K (**+14.24%**)
+- **Quantity Sold**: ₹12K (**+26.83%**)
+- **Top Segment**: Consumer (₹50.2K in one month)
+- **Top Manager**: Sadie Pawthorne (₹250K)
+- **West Region** leads in sales performance
+- **17 states** are above average in sales, while **30 states** are below
+- **33 states** have profit below the national average
+
+
+
+## 🛠Tools Used
+
+- **Tableau** – for creating the dashboard
+- **Excel/CSV** – for storing and managing raw data
+- **GitHub** – to share and showcase the project
+
+
+
+## Who Can Use This?
+
+- Students learning data visualization and storytelling
+- Business analysts creating dashboards for portfolios
+- Sales managers tracking and comparing performance
+
+
+
+
+
